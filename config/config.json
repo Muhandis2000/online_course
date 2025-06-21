@@ -1,0 +1,15 @@
+{
+    "server": {
+        "port": "8080"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "dbname": "online_school"
+    },
+    "log": {
+        "directory": "./logs",
+        "filename": "app.log"
+    }
+}
