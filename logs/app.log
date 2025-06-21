@@ -1,4 +1,0 @@
-ERROR: 2025/06/20 22:02:26 Failed to connect to database: pq: password authentication failed for user "postgres"
-ERROR: 2025/06/20 22:13:27 Failed to connect to database: pq: password authentication failed for user "postgres"
-INFO: 2025/06/20 22:25:25 Server starting on port 8080
-INFO: 2025/06/20 22:34:00 Server starting on port 8080
